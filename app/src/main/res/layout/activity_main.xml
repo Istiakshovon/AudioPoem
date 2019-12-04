@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/btn_poem1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="1 2 3 4 5" />
+
+    <Button
+        android:id="@+id/btn_poem2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="A B C's" />
+
+    <Button
+        android:id="@+id/btn_poem3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Bingo" />
+
+    <Button
+        android:id="@+id/btn_poem4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Baa Baa Black Sheep" />
+
+    <Button
+        android:id="@+id/btn_poem5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Head and Shoulders" />
+</LinearLayout>

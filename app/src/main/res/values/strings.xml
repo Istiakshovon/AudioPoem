@@ -1,0 +1,92 @@
+<resources>
+    <string name="app_name">Audio Rhymes</string>
+    <string name="poem1">
+        One, two, three, four, five,
+        Once I caught a fish alive,
+        Six, seven, eight, nine, ten,
+        Then I let go again.
+
+        Why did you let it go?
+        Because it bit my finger so.
+        Which finger did it bite?
+        This little finger on the right
+    </string>
+
+    <string name="poem2">
+       A B C D E F G
+        H I J K L M N O P
+        Q R S T U V
+        W X Y and Z
+
+        Now I know my ABCs
+        Next time won’t you sing with me
+    </string>
+
+    <string name="poem3">
+       There was a farmer who had a dog,
+        And Bingo was his name-O.
+        B-I-N-G-O!
+        B-I-N-G-O!
+        B-I-N-G-O!
+        And Bingo was his name-O!
+
+        There was a farmer who had a dog,
+        And Bingo was his name-O.
+        (Clap)-I-N-G-O!
+        (Clap)-I-N-G-O!
+        (Clap)-I-N-G-O!
+        And Bingo was his name-O!
+
+        There was a farmer who had a dog,
+        And Bingo was his name-O!
+        (Clap – Clap)-N-G-O!
+        (Clap – Clap)-N-G-O!
+        (Clap – Clap)-N-G-O!
+        And Bingo was his name-O!
+
+        There was a farmer who had a dog,
+        And Bingo was his name-O.
+        (Clap – Clap – Clap)-G-O!
+        (Clap – Clap – Clap)-G-O!
+        (Clap – Clap – Clap)-G-O!
+        And Bingo was his name-O!
+
+        There was a farmer who had a dog,
+        And Bingo was his name-O.
+        (Clap – Clap – Clap – Clap)-O!
+        (Clap – Clap – Clap – Clap)-O!
+        (Clap – Clap – Clap – Clap)-O!
+        And Bingo was his name-O!
+
+        There was a farmer who had a dog,
+        And Bingo was his name-O.
+        (Clap – Clap – Clap – Clap – Clap)
+        (Clap – Clap – Clap – Clap – Clap)
+        (Clap – Clap – Clap – Clap – Clap)
+        And Bingo was his name-O!
+    </string>
+
+    <string name="poem4">
+       Baa Baa Black Sheep
+        Baa, baa black sheep
+        Have you any wool
+        Yes sir, yes sir
+        Three bags full.
+
+        One for my master
+        And one for my dame
+        And one for the little boy
+        Who lives down the lane.
+    </string>
+
+    <string name="poem5">
+       Head Shoulders Knees and Toes
+        Head, shoulders, knees and toes,
+        Knees and toes.
+        Head, shoulders, knees and toes,
+        Knees and toes.
+        And eyes, and ears, and mouth, and nose.
+        Head, shoulders, knees and toes,
+        Knees and toes.
+    </string>
+</resources>
